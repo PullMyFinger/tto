@@ -51,6 +51,6 @@ end
 a = Board.new
 p a.grid
 a.render
-a[0, 1]= :red
-p a[0, 1]
+# a[0, 1]= :red
+# p a[0, 1]
 a.render
